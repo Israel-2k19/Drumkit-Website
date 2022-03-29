@@ -1,0 +1,111 @@
+
+
+body{
+	background-color: #333333;
+
+}
+
+h1 {
+	text-align: center;
+	font-size: 5rem;
+	color: #fff;
+}
+
+.headline-drum{
+	width: 5rem;
+}
+
+.buttons{
+	text-align: center;
+}
+
+.pressed{
+	box-shadow: 0 3px 4px 0 #DBEDF3;
+	opacity: 0.5;	
+}
+
+
+.drum{
+	outline: none;
+	border: solid 10px #404B69;
+	font-size: 5rem;
+	line-height: 2;
+	font-weight: bold;
+	color: #DA0463;
+	text-shadow: 3px 0 #DBEDF3;
+	border-radius: 15px;
+	display: inline-block;
+	width: 140px ;
+	text-align: center;
+	margin: 1rem 10px;
+	background-color: #fefefe;
+}
+
+
+.w_drum{
+	width: 7rem;
+	margin-top: -300px;
+}
+
+
+
+.a_drum{
+	width: 7rem;
+	margin-top: -300px;
+}
+
+
+.s_drum{
+	width: 7rem;
+	margin-top: -300px;
+}
+
+.d_drum{
+	width: 7rem;
+	margin-top: -300px;
+}
+
+
+
+.f_drum{
+	width: 7rem;
+	margin-top: -300px;
+}
+
+
+
+.j_drum{
+	width: 7rem;
+	margin-top: -300px;
+}
+
+
+.k_drum{
+	width: 7rem;
+	margin-top: -300px;
+}
+
+
+.l_drum{
+	width: 7rem;
+	margin-top: -300px;
+}
+
+
+.copyright{
+	color: #ffffff;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 1rem;
+}
+
+.Nigeria_flag{
+	width: 20px;
+}
+
+
+/* inserting background images into the buttons */
+
+.w{
+	background-image: url("images/bass_drum.png");
+}
